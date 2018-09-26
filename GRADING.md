@@ -1,3 +1,5 @@
+ps1-jteresco
+
 # Problem Set 1 Grading Sheet
 
 ## Total: 90/90
